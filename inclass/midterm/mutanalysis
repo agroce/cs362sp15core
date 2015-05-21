@@ -1,0 +1,59 @@
+mutant100003_countshortcode.c: In function ‘bits1short’:
+mutant100003_countshortcode.c:6: warning: right shift count is negative
+mutant100005_countshortcode.c:6:48: error: invalid suffix "x55555555" on integer constant
+mutant100006_countshortcode.c:6:49: error: invalid suffix "x55555555" on integer constant
+/bin/sh: line 1: 24822 Floating point exception(core dumped) ./tester &>outf
+mutant100011_countshortcode.c:7:37: error: invalid suffix "x33333333" on integer constant
+/bin/sh: line 1: 24832 Floating point exception(core dumped) ./tester &>outf
+mutant100012_countshortcode.c:7:38: error: invalid suffix "x33333333" on integer constant
+/bin/sh: line 1: 24841 Floating point exception(core dumped) ./tester &>outf
+mutant100015_countshortcode.c: In function ‘bits1short’:
+mutant100015_countshortcode.c:7: warning: right shift count is negative
+mutant100018_countshortcode.c:7:63: error: invalid suffix "x33333333" on integer constant
+mutant100019_countshortcode.c:7:64: error: invalid suffix "x33333333" on integer constant
+/bin/sh: line 1: 24959 Floating point exception(core dumped) ./tester &>outf
+mutant100026_countshortcode.c: In function ‘bits1short’:
+mutant100026_countshortcode.c:8: warning: right shift count is negative
+mutant100029_countshortcode.c:8:71: error: invalid suffix "x0F0F0F0F" on integer constant
+mutant100030_countshortcode.c:8:72: error: invalid suffix "x0F0F0F0F" on integer constant
+mutant100031_countshortcode.c:8:85: error: invalid suffix "x01010101" on integer constant
+mutant100032_countshortcode.c:8:86: error: invalid suffix "x01010101" on integer constant
+mutant100035_countshortcode.c: In function ‘bits1short’:
+mutant100035_countshortcode.c:8: warning: right shift count is negative
+MUTANT: mutant100001_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100002_countshortcode.c  : MISMATCHES = 52666
+MUTANT: mutant100003_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100004_countshortcode.c  : MISMATCHES = 61614
+MUTANT: mutant100005_countshortcode.c  : MISMATCHES = 61614
+MUTANT: mutant100006_countshortcode.c  : MISMATCHES = 61614
+MUTANT: mutant100007_countshortcode.c  : MISMATCHES = 64656
+MUTANT: mutant100008_countshortcode.c  : MISMATCHES = 65238
+MUTANT: mutant100009_countshortcode.c  : MISMATCHES = 64751
+MUTANT: mutant100010_countshortcode.c  : MISMATCHES = 0
+MUTANT: mutant100011_countshortcode.c  : MISMATCHES = 0
+MUTANT: mutant100012_countshortcode.c  : MISMATCHES = 0
+MUTANT: mutant100013_countshortcode.c  : MISMATCHES = 52666
+MUTANT: mutant100014_countshortcode.c  : MISMATCHES = 57169
+MUTANT: mutant100015_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100016_countshortcode.c  : MISMATCHES = 52544
+MUTANT: mutant100017_countshortcode.c  : MISMATCHES = 57169
+MUTANT: mutant100018_countshortcode.c  : MISMATCHES = 57169
+MUTANT: mutant100019_countshortcode.c  : MISMATCHES = 57169
+MUTANT: mutant100020_countshortcode.c  : MISMATCHES = 65520
+MUTANT: mutant100021_countshortcode.c  : MISMATCHES = 65505
+MUTANT: mutant100022_countshortcode.c  : MISMATCHES = 64439
+MUTANT: mutant100023_countshortcode.c  : MISMATCHES = 0
+MUTANT: mutant100024_countshortcode.c  : MISMATCHES = 52666
+MUTANT: mutant100025_countshortcode.c  : MISMATCHES = 64153
+MUTANT: mutant100026_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100027_countshortcode.c  : MISMATCHES = 65408
+MUTANT: mutant100028_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100029_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100030_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100031_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100032_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100033_countshortcode.c  : MISMATCHES = 65280
+MUTANT: mutant100034_countshortcode.c  : MISMATCHES = 65535
+MUTANT: mutant100035_countshortcode.c  : MISMATCHES = 65535
+MUTANT: mutant100036_countshortcode.c  : MISMATCHES = 65535
+MUTANT: mutant100037_countshortcode.c  : MISMATCHES = 65535

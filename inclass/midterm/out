@@ -1,0 +1,926 @@
+CBMC version 5.0 64-bit linux
+Parsing countlongcbmc.c
+Converting
+Type-checking countlongcbmc
+file countlongcbmc.c line 29 function main: function `assert' is not declared
+Generating GOTO Program
+Adding CPROVER library
+Function Pointer Removal
+Partial Inlining
+Generic Property Instrumentation
+Starting Bounded Model Checking
+Unwinding loop ref_bits1long.0 iteration 1 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 2 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 3 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 4 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 5 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 6 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 7 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 8 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 9 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 10 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 11 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 12 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 13 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 14 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 15 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 16 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 17 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 18 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 19 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 20 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 21 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 22 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 23 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 24 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 25 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 26 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 27 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 28 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 29 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 30 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 31 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 32 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 33 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 34 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 35 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 36 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 37 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 38 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 39 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 40 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 41 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 42 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 43 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 44 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 45 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 46 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 47 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 48 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 49 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 50 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 51 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 52 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 53 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 54 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 55 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 56 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 57 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 58 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 59 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 60 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 61 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 62 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 63 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Unwinding loop ref_bits1long.0 iteration 64 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+Not unwinding loop ref_bits1long.0 iteration 65 (65 max) file countlongcbmc.c line 14 function ref_bits1long thread 0
+size of program expression: 645 steps
+simple slicing removed 4 assignments
+Generated 2 VCC(s), 2 remaining after simplification
+Passing problem to propositional reduction
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.0 with simplifier
+7747 variables, 27599 clauses
+SAT checker: negated claim is SATISFIABLE, i.e., does not hold
+Runtime decision procedure: 0.123s
+Building error trace
+
+Counterexample:
+
+State 17 file countlongcbmc.c line 25 function main thread 0
+----------------------------------------------------
+  c=0 (0000000000000000000000000000000000000000000000000000000000000000)
+
+State 18 file countlongcbmc.c line 25 function main thread 0
+----------------------------------------------------
+  c=11257343796628949169 (1001110000111010000111101000101000000000100001000000100010110001)
+
+State 19 file countlongcbmc.c line 26 function main thread 0
+----------------------------------------------------
+  v1=0 (00000000)
+
+State 22 file countlongcbmc.c line 26 function main thread 0
+----------------------------------------------------
+  c=11257343796628949169 (1001110000111010000111101000101000000000100001000000100010110001)
+
+State 23 file countlongcbmc.c line 5 function bits1long thread 0
+----------------------------------------------------
+  i=0 (0000000000000000000000000000000000000000000000000000000000000000)
+
+State 24 file countlongcbmc.c line 5 function bits1long thread 0
+----------------------------------------------------
+  i=11257343796628949169 (1001110000111010000111101000101000000000100001000000100010110001)
+
+State 25 file countlongcbmc.c line 6 function bits1long thread 0
+----------------------------------------------------
+  i=11257343796624753761 (1001110000111010000111101000101000000000010001000000010001100001)
+
+State 26 file countlongcbmc.c line 7 function bits1long thread 0
+----------------------------------------------------
+  i=1114417 (0000000000000000000000000000000000000000000100010000000100110001)
+
+State 30 file countlongcbmc.c line 26 function main thread 0
+----------------------------------------------------
+  v1=7 (00000111)
+
+State 31 file countlongcbmc.c line 27 function main thread 0
+----------------------------------------------------
+  v2=0 (00000000)
+
+State 34 file countlongcbmc.c line 27 function main thread 0
+----------------------------------------------------
+  c=11257343796628949169 (1001110000111010000111101000101000000000100001000000100010110001)
+
+State 35 file countlongcbmc.c line 12 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=0 (00000000)
+
+State 36 file countlongcbmc.c line 12 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=0 (00000000)
+
+State 37 file countlongcbmc.c line 13 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 39 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 40 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=1 (00000001)
+
+State 41 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=5628671898314474584 (0100111000011101000011110100010100000000010000100000010001011000)
+
+State 44 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 45 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=1 (00000001)
+
+State 46 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2814335949157237292 (0010011100001110100001111010001010000000001000010000001000101100)
+
+State 49 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 50 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=1 (00000001)
+
+State 51 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1407167974578618646 (0001001110000111010000111101000101000000000100001000000100010110)
+
+State 54 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 55 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=1 (00000001)
+
+State 56 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=703583987289309323 (0000100111000011101000011110100010100000000010000100000010001011)
+
+State 59 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 60 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=2 (00000010)
+
+State 61 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=351791993644654661 (0000010011100001110100001111010001010000000001000010000001000101)
+
+State 64 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 65 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=3 (00000011)
+
+State 66 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=175895996822327330 (0000001001110000111010000111101000101000000000100001000000100010)
+
+State 69 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 70 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=3 (00000011)
+
+State 71 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=87947998411163665 (0000000100111000011101000011110100010100000000010000100000010001)
+
+State 74 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 75 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=4 (00000100)
+
+State 76 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=43973999205581832 (0000000010011100001110100001111010001010000000001000010000001000)
+
+State 79 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 80 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=4 (00000100)
+
+State 81 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=21986999602790916 (0000000001001110000111010000111101000101000000000100001000000100)
+
+State 84 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 85 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=4 (00000100)
+
+State 86 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=10993499801395458 (0000000000100111000011101000011110100010100000000010000100000010)
+
+State 89 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 90 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=4 (00000100)
+
+State 91 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=5496749900697729 (0000000000010011100001110100001111010001010000000001000010000001)
+
+State 94 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 95 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 96 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2748374950348864 (0000000000001001110000111010000111101000101000000000100001000000)
+
+State 99 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 100 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 101 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1374187475174432 (0000000000000100111000011101000011110100010100000000010000100000)
+
+State 104 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 105 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 106 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=687093737587216 (0000000000000010011100001110100001111010001010000000001000010000)
+
+State 109 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 110 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 111 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=343546868793608 (0000000000000001001110000111010000111101000101000000000100001000)
+
+State 114 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 115 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 116 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=171773434396804 (0000000000000000100111000011101000011110100010100000000010000100)
+
+State 119 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 120 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 121 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=85886717198402 (0000000000000000010011100001110100001111010001010000000001000010)
+
+State 124 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 125 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=5 (00000101)
+
+State 126 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=42943358599201 (0000000000000000001001110000111010000111101000101000000000100001)
+
+State 129 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 130 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=6 (00000110)
+
+State 131 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=21471679299600 (0000000000000000000100111000011101000011110100010100000000010000)
+
+State 134 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 135 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=6 (00000110)
+
+State 136 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=10735839649800 (0000000000000000000010011100001110100001111010001010000000001000)
+
+State 139 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 140 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=6 (00000110)
+
+State 141 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=5367919824900 (0000000000000000000001001110000111010000111101000101000000000100)
+
+State 144 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 145 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=6 (00000110)
+
+State 146 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2683959912450 (0000000000000000000000100111000011101000011110100010100000000010)
+
+State 149 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 150 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=6 (00000110)
+
+State 151 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1341979956225 (0000000000000000000000010011100001110100001111010001010000000001)
+
+State 154 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 155 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 156 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=670989978112 (0000000000000000000000001001110000111010000111101000101000000000)
+
+State 159 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 160 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 161 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=335494989056 (0000000000000000000000000100111000011101000011110100010100000000)
+
+State 164 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 165 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 166 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=167747494528 (0000000000000000000000000010011100001110100001111010001010000000)
+
+State 169 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 170 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 171 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=83873747264 (0000000000000000000000000001001110000111010000111101000101000000)
+
+State 174 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 175 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 176 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=41936873632 (0000000000000000000000000000100111000011101000011110100010100000)
+
+State 179 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 180 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 181 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=20968436816 (0000000000000000000000000000010011100001110100001111010001010000)
+
+State 184 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 185 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 186 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=10484218408 (0000000000000000000000000000001001110000111010000111101000101000)
+
+State 189 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 190 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 191 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=5242109204 (0000000000000000000000000000000100111000011101000011110100010100)
+
+State 194 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 195 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 196 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2621054602 (0000000000000000000000000000000010011100001110100001111010001010)
+
+State 199 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 200 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=7 (00000111)
+
+State 201 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1310527301 (0000000000000000000000000000000001001110000111010000111101000101)
+
+State 204 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 205 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=8 (00001000)
+
+State 206 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=655263650 (0000000000000000000000000000000000100111000011101000011110100010)
+
+State 209 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 210 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=8 (00001000)
+
+State 211 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=327631825 (0000000000000000000000000000000000010011100001110100001111010001)
+
+State 214 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 215 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=9 (00001001)
+
+State 216 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=163815912 (0000000000000000000000000000000000001001110000111010000111101000)
+
+State 219 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 220 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=9 (00001001)
+
+State 221 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=81907956 (0000000000000000000000000000000000000100111000011101000011110100)
+
+State 224 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 225 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=9 (00001001)
+
+State 226 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=40953978 (0000000000000000000000000000000000000010011100001110100001111010)
+
+State 229 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 230 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=9 (00001001)
+
+State 231 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=20476989 (0000000000000000000000000000000000000001001110000111010000111101)
+
+State 234 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 235 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=10 (00001010)
+
+State 236 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=10238494 (0000000000000000000000000000000000000000100111000011101000011110)
+
+State 239 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 240 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=10 (00001010)
+
+State 241 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=5119247 (0000000000000000000000000000000000000000010011100001110100001111)
+
+State 244 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 245 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=11 (00001011)
+
+State 246 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2559623 (0000000000000000000000000000000000000000001001110000111010000111)
+
+State 249 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 250 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=12 (00001100)
+
+State 251 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1279811 (0000000000000000000000000000000000000000000100111000011101000011)
+
+State 254 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 255 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=13 (00001101)
+
+State 256 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=639905 (0000000000000000000000000000000000000000000010011100001110100001)
+
+State 259 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 260 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=14 (00001110)
+
+State 261 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=319952 (0000000000000000000000000000000000000000000001001110000111010000)
+
+State 264 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 265 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=14 (00001110)
+
+State 266 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=159976 (0000000000000000000000000000000000000000000000100111000011101000)
+
+State 269 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 270 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=14 (00001110)
+
+State 271 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=79988 (0000000000000000000000000000000000000000000000010011100001110100)
+
+State 274 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 275 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=14 (00001110)
+
+State 276 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=39994 (0000000000000000000000000000000000000000000000001001110000111010)
+
+State 279 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 280 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=14 (00001110)
+
+State 281 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=19997 (0000000000000000000000000000000000000000000000000100111000011101)
+
+State 284 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 285 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=15 (00001111)
+
+State 286 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=9998 (0000000000000000000000000000000000000000000000000010011100001110)
+
+State 289 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 290 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=15 (00001111)
+
+State 291 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=4999 (0000000000000000000000000000000000000000000000000001001110000111)
+
+State 294 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 295 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=16 (00010000)
+
+State 296 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2499 (0000000000000000000000000000000000000000000000000000100111000011)
+
+State 299 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 300 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=17 (00010001)
+
+State 301 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1249 (0000000000000000000000000000000000000000000000000000010011100001)
+
+State 304 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 305 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=18 (00010010)
+
+State 306 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=624 (0000000000000000000000000000000000000000000000000000001001110000)
+
+State 309 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 310 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=18 (00010010)
+
+State 311 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=312 (0000000000000000000000000000000000000000000000000000000100111000)
+
+State 314 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 315 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=18 (00010010)
+
+State 316 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=156 (0000000000000000000000000000000000000000000000000000000010011100)
+
+State 319 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 320 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=18 (00010010)
+
+State 321 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=78 (0000000000000000000000000000000000000000000000000000000001001110)
+
+State 324 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 325 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=18 (00010010)
+
+State 326 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=39 (0000000000000000000000000000000000000000000000000000000000100111)
+
+State 329 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 330 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=19 (00010011)
+
+State 331 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=19 (0000000000000000000000000000000000000000000000000000000000010011)
+
+State 334 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 335 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=20 (00010100)
+
+State 336 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=9 (0000000000000000000000000000000000000000000000000000000000001001)
+
+State 339 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 340 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=21 (00010101)
+
+State 341 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=4 (0000000000000000000000000000000000000000000000000000000000000100)
+
+State 344 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 345 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=21 (00010101)
+
+State 346 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=2 (0000000000000000000000000000000000000000000000000000000000000010)
+
+State 349 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=0 (00000000000000000000000000000000)
+
+State 350 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=21 (00010101)
+
+State 351 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=1 (0000000000000000000000000000000000000000000000000000000000000001)
+
+State 354 file countlongcbmc.c line 15 function ref_bits1long thread 0
+----------------------------------------------------
+  bit=1 (00000000000000000000000000000001)
+
+State 355 file countlongcbmc.c line 16 function ref_bits1long thread 0
+----------------------------------------------------
+  ones=22 (00010110)
+
+State 356 file countlongcbmc.c line 17 function ref_bits1long thread 0
+----------------------------------------------------
+  c=0 (0000000000000000000000000000000000000000000000000000000000000000)
+
+State 362 file countlongcbmc.c line 27 function main thread 0
+----------------------------------------------------
+  v2=22 (00010110)
+LOG Comparing: bits1long(%lu) = 8652977, ref = 7
+
+
+Violated property:
+  file countlongcbmc.c line 29 function main
+  assertion v1 == v2
+  v1 == v2
+
+VERIFICATION FAILED

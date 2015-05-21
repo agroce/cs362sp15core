@@ -1,0 +1,38 @@
+5: /* MUTANT (del_stmt) */ /*   unsigned int i = (unsigned int) c; */ 
+6: /* MUTANT (del_stmt) */ /*   i = i - ((i >> 1) & 0x55555555); */ 
+6: /* MUTANT (rep_const) */  i = i - ((i >> 0) & 0x55555555);
+6: /* MUTANT (rep_const) */  i = i - ((i >> -1) & 0x55555555);
+6: /* MUTANT (rep_const) */  i = i - ((i >> ((1)+1)) & 0x55555555);
+6: /* MUTANT (rep_const) */  i = i - ((i >> 1) & 1x55555555);
+6: /* MUTANT (rep_const) */  i = i - ((i >> 1) & -1x55555555);
+7: /* MUTANT (del_stmt) */ /*   i = (i & 0x33333333) + ((i >> 2) & 0x33333333); */ 
+7: /* MUTANT (rep_op) */  i = (i & 0x33333333) - ((i >> 2) & 0x33333333);
+7: /* MUTANT (rep_op) */  i = (i & 0x33333333) * ((i >> 2) & 0x33333333);
+7: /* MUTANT (rep_op) */  i = (i & 0x33333333) % ((i >> 2) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 1x33333333) + ((i >> 2) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & -1x33333333) + ((i >> 2) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> 0) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> 1) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> -1) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> ((2)+1)) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> ((2)-1)) & 0x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> 2) & 1x33333333);
+7: /* MUTANT (rep_const) */  i = (i & 0x33333333) + ((i >> 2) & -1x33333333);
+8: /* MUTANT (del_stmt) */ /*   return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24); */ 
+8: /* MUTANT (rep_op) */  return (unsigned short)((((i - (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_op) */  return (unsigned short)((((i * (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_op) */  return (unsigned short)((((i % (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 0)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 1)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> -1)) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> ((4)+1))) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> ((4)-1))) & 0x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 1x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & -1x0F0F0F0F) * 0x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 1x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * -1x01010101) >> 24);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 0);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 1);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> -1);
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> ((24)+1));
+8: /* MUTANT (rep_const) */  return (unsigned short)((((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> ((24)-1));

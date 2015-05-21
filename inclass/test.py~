@@ -1,0 +1,28 @@
+import random
+
+l = []
+
+lref = []
+
+def lput(n):
+    if n in l:
+        return 0
+    l.append(n)
+    return 1
+
+def refput(n):
+    if n in lref:
+        return 0
+    lref.append(n)
+    return 1
+
+def lget(n):
+    if n in l:
+        return 0
+    return 0
+
+def refget(n):
+    if n in lref:
+        return 1
+    return 0
+
